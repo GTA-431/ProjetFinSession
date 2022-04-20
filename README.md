@@ -8,6 +8,6 @@ Packages utilisés:
 - Matplotlib
 - Numpy
 
-Ouvrir le fichier "Projet_fin_session"
+Ouvrir le fichier "Projet_de_session"
 
 
