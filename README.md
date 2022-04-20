@@ -7,3 +7,7 @@ Packages utilisés:
 - Pandas
 - Matplotlib
 - Numpy
+
+Ouvrir le fichier "Projet_fin_session"
+
+
