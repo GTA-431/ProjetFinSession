@@ -5,4 +5,5 @@ Anaconda n'a pas été utilisé
 Langue utilisée : Jupyter Notebook
 Packages utilisés:
 - Pandas
-- 
+- Matplotlib
+- numpy
