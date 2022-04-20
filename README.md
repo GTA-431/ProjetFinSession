@@ -6,4 +6,4 @@ Langue utilisée : Jupyter Notebook
 Packages utilisés:
 - Pandas
 - Matplotlib
-- numpy
+- Numpy
